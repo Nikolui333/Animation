@@ -2,4 +2,9 @@
     <string name="app_name">Animation</string>
     <string name="next">NEXT</string>
     <string name="previous">PREVIOUS</string>
+    <string name="buttonOne">BUTTON ONE</string>
+    <string name="buttonTwo">BUTTON TWO</string>
+    <string name="buttonThree">BUTTON THREE</string>
+    <string name="buttonFour">BUTTON FOUR</string>
+    <string name="buttonFive">BUTTON FIVE</string>
 </resources>
